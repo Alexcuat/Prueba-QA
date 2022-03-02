@@ -1,0 +1,18 @@
+c:\users\dell-system\documents\visual studio 2015\Projects\Adivinador de Numeros\Adivinador de Numeros\bin\Debug\Adivinador de Numeros.exe.config
+c:\users\dell-system\documents\visual studio 2015\Projects\Adivinador de Numeros\Adivinador de Numeros\bin\Debug\Adivinador de Numeros.exe
+c:\users\dell-system\documents\visual studio 2015\Projects\Adivinador de Numeros\Adivinador de Numeros\bin\Debug\Adivinador de Numeros.pdb
+c:\users\dell-system\documents\visual studio 2015\Projects\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador de Numeros.csprojResolveAssemblyReference.cache
+c:\users\dell-system\documents\visual studio 2015\Projects\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador_de_Numeros.Form1.resources
+c:\users\dell-system\documents\visual studio 2015\Projects\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador_de_Numeros.Properties.Resources.resources
+c:\users\dell-system\documents\visual studio 2015\Projects\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador de Numeros.csproj.GenerateResource.Cache
+c:\users\dell-system\documents\visual studio 2015\Projects\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador de Numeros.exe
+c:\users\dell-system\documents\visual studio 2015\Projects\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador de Numeros.pdb
+E:\Disco Duro Fredo\VISUAL STUDIO 2015\Adivinador de Numeros\Adivinador de Numeros\bin\Debug\Adivinador de Numeros.exe.config
+E:\Disco Duro Fredo\VISUAL STUDIO 2015\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador de Numeros.exe
+E:\Disco Duro Fredo\VISUAL STUDIO 2015\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador de Numeros.pdb
+E:\Disco Duro Fredo\VISUAL STUDIO 2015\Adivinador de Numeros\Adivinador de Numeros\bin\Debug\Adivinador de Numeros.exe
+E:\Disco Duro Fredo\VISUAL STUDIO 2015\Adivinador de Numeros\Adivinador de Numeros\bin\Debug\Adivinador de Numeros.pdb
+E:\Disco Duro Fredo\VISUAL STUDIO 2015\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador de Numeros.csprojResolveAssemblyReference.cache
+E:\Disco Duro Fredo\VISUAL STUDIO 2015\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador_de_Numeros.Form1.resources
+E:\Disco Duro Fredo\VISUAL STUDIO 2015\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador_de_Numeros.Properties.Resources.resources
+E:\Disco Duro Fredo\VISUAL STUDIO 2015\Adivinador de Numeros\Adivinador de Numeros\obj\Debug\Adivinador de Numeros.csproj.GenerateResource.Cache
